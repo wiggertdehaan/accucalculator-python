@@ -1,0 +1,31 @@
+# CSV bestanden (persoonlijke energiedata)
+*.csv
+
+# Python bytecode bestanden
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuele omgeving
+venv/
+.venv/
+env/
+ENV/
+
+# Distributie / packaging
+dist/
+build/
+*.egg-info/
+
+# Gegenereerde bestanden
+*.png
+
+# IDE specifieke bestanden
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Overige bestanden die niet thuishoren in de repo
+*.log
+.DS_Store 
